@@ -1,0 +1,13 @@
+{
+  "Index": {
+    "title": "Hello Vilag!",
+    "about-button": "Rolunk"
+  },
+  "About": {
+    "title": "Rolunk!",
+    "home-button": "Fooldal"
+  },
+  "components": {
+    "lng-changer": "Valassz nyelvet:"
+  }
+}

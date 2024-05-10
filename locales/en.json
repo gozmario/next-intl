@@ -1,0 +1,13 @@
+{
+  "Index": {
+    "title": "Hello world!",
+    "about-button": "About us"
+  },
+  "About": {
+    "title": "About us!",
+    "home-button": "Home page"
+  },
+  "components": {
+    "lng-changer": "Select language:"
+  }
+}
