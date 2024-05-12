@@ -1,3 +1,4 @@
+import SignOutButton from "@/components/SignOutButton";
 import { Link } from "@/navigation";
 import { useTranslations } from "next-intl";
 
@@ -7,6 +8,7 @@ export default function About() {
     <div>
       <h1>{t("title")}</h1>
       <Link href="/">{t("home-button")}</Link>
+      <SignOutButton />
     </div>
   );
 }

@@ -9,5 +9,13 @@
   },
   "components": {
     "lng-changer": "Valassz nyelvet:"
+  },
+  "Login": {
+    "email": "Email",
+    "password": "Jelszo",
+    "login-button": "Bejelentkezes"
+  },
+  "SignOut": {
+    "signout-button": "Kijelentkezes"
   }
 }

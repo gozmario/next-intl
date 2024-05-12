@@ -9,5 +9,13 @@
   },
   "components": {
     "lng-changer": "Select language:"
+  },
+  "Login": {
+    "email": "Email",
+    "password": "Password",
+    "login-button": "Login"
+  },
+  "SignOut": {
+    "signout-button": "Sign Out"
   }
 }

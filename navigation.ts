@@ -7,6 +7,8 @@ export const locales = ["en", "hu"] as const;
 export const defaultLocale = "en";
 export const localePrefix = "always"; // Default
 
+export const publicRoutes = ["/login", "/bejelentkezes"];
+
 // The `pathnames` object holds pairs of internal
 // and external paths, separated by locale.
 export const pathnames = {
@@ -19,6 +21,11 @@ export const pathnames = {
   "/about": {
     en: "/about",
     hu: "/rolunk",
+  },
+
+  "/login": {
+    en: "/login",
+    hu: "/bejelentkezes",
   },
 } satisfies Pathnames<typeof locales>;
 
